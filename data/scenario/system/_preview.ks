@@ -1,0 +1,8 @@
+[hidemenubutton] 
+[eval exp="f._system_preview_ks='scene1.ks'"] 
+[preload  storage="./data/bgimage/room.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/無題361_20260312194239.png"  ]
+[preload  storage="./data/fgimage/chara/1/無題361_20260312194308.png"  ]
+[preload  storage="./data/bgimage/無題361.png"  ]
+[preload  storage="./data/bgimage/end.png"  ]
+[return] 
